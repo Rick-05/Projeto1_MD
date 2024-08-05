@@ -1,0 +1,46 @@
+body{
+    background-color: #8a2be2;
+}
+
+.painel{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sim{
+    height: 40px;
+    width: 60px;
+    background-color: #8a2be2;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: -50px;
+    cursor: pointer;
+}
+
+#nao{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color: #8a2be2;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    .painel{
+        width: 85vw;
+        height: 85vh;
+    }
+    img{
+        width: 85vw;
+    }
+}
