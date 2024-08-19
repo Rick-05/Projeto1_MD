@@ -1,5 +1,5 @@
 body{
-    background-color: #8a2be2;
+    background-color: #993399;
 }
 
 .painel{
@@ -16,7 +16,7 @@ body{
 #sim{
     height: 40px;
     width: 60px;
-    background-color: #8a2be2;
+    background-color: #993399;
     border: 2px solid white;
     border-radius: 10px;
     color: white;
@@ -28,7 +28,7 @@ body{
     position: absolute;
     height: 40px;
     width: 60px;
-    background-color: #8a2be2;
+    background-color: #993399;
     border: 2px solid white;
     border-radius: 10px;
     color: white;
